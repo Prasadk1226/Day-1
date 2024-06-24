@@ -1,0 +1,88 @@
+Thank you for the information, Prasad! Here is a simple personal webpage created for you:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prasad's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            margin: 20px 0;
+        }
+        section h2 {
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #333;
+            color: #fff;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Prasad</h1>
+            <p>An Aspiring Frontend Developer</p>
+        </header>
+        <section>
+            <h2>About Me</h2>
+            <p>Hi, I am Prasad. I am an aspiring frontend developer with a passion for learning new and updated technologies. I love to stay updated with the latest versions of mobile phones and enjoy playing basketball in my free time.</p>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Weather Project:</strong> A web application that provides real-time weather updates for any location.</li>
+                <li><strong>Calculator Project:</strong> A simple yet functional calculator built using HTML, CSS, and JavaScript.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Interests</h2>
+            <p>Basketball, New Technologies, Mobile Phones</p>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>You can find me on <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Prasad</p>
+    </footer>
+</body>
+</html>
+```
+
+You can save this code as an HTML file (e.g., `index.html`) and open it in any web browser to view your personal webpage. If you have any other details or changes you'd like to make, feel free to let me know!
