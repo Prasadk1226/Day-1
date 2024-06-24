@@ -1,0 +1,13 @@
+body {
+  height: 100%;
+  background: radial-gradient(
+    circle at bottom right,
+    lightblue,
+    yellow,
+    orange,
+    green
+  );
+  /* background: linear-gradient(to bottom right , cyan, magenta,yellow,orange, red) */
+  /* background: linear-gradient(to left,rgb(27, 27, 27), rgb(255, 255, 255)); */
+  /* background-color: gray; */
+}
